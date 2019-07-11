@@ -1,0 +1,21 @@
+{
+  "name": "@qianxuemin/panzer",
+  "version": "1.0.0",
+  "description": "一键配置Mocha自动化测试方案",
+  "bin": {
+    "panzer": "./bin/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "qianxuemin001@ke.com",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "commander": "^2.19.0",
+    "fs-extra": "^7.0.1",
+    "lodash": "^4.17.11",
+    "shelljs": "^0.8.3"
+  }
+}
